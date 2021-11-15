@@ -1,0 +1,10 @@
+Legend of the map.
+
+First line :
+0 -> blank space
+1 -> piks
+2 -> fireball, be carefull to espace of 3 blank space between the fireball and the last piks or the map will not be possible.
+
+Second line is the speed vitesse of the map.
+
+Every second, map read 1 and check what he need to spawn.

@@ -1,0 +1,7 @@
+USAGE
+    ./103cipher message key flag
+
+DESCRIPTION
+    message    a message, made of ASCII characters
+    key        the encryption key, made of ASCII characters
+    flag       0 for the message encrypted, 1 to be decrypted

@@ -1,0 +1,5 @@
+USAGE
+    %s file
+
+DESCRIPTION
+    file    a csv file containing "vol;ph" lines
